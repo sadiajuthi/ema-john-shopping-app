@@ -1,0 +1,22 @@
+
+.menu-container{
+    margin-top: 0;
+    height: 80px;
+    background-color:#1C2B35;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.logo{
+    margin-left: 40px;
+}
+
+.header{
+    margin-right: 40px;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    margin: 15px;
+}

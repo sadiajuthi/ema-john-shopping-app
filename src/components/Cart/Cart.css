@@ -1,0 +1,6 @@
+.cart-container{
+    position: sticky;
+    top: 0;
+    background-color: #FFE0B3;
+    padding: 10px 20px;
+}
